@@ -1,4 +1,4 @@
-# primeiro-Exercicio-React
+# Exercícios com React.js
 Exercício do primeiro dia do módulo de Front End da Trybe
 
 Exercício 1 Concluído 🚀
