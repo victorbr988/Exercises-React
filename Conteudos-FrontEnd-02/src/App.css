@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(to right, #e66465, #9198e5);
+}
+
+.App {
+  color: white;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  margin: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.content {
+  color: teal;
+  border: 1px solid teal; 
+  width: 200px;
+  height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 1rem;
+  padding: 1rem;
+  background-color: rgb(201, 185, 185);
+  box-shadow: 10px 10px rgb(110, 100, 100);
+}
+.content h4 {
+  padding-bottom: 10px;
+}
